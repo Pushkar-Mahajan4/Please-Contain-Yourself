@@ -7,7 +7,7 @@
 # Tell your container where your app's source code will live
 
 
-# What source code do you what to copy, and where to put it?
+# What source code do you want to copy, and where to put it?
 
 
 # Does your app have any dependencies that should be installed?
