@@ -84,7 +84,7 @@ The base image our Dockerfile recipe will use to build our custom image is going
 
 >As the comment implies, this command tells your container which directory is the working directory
 
-- [ ] Under the comment '# What source code do you what to copy, and where to put it?' type `COPY . /src/app`
+- [ ] Under the comment '# What source code do you want to copy, and where to put it?' type `COPY . /src/app`
 
 >`COPY` takes two arguments (It's a little hard to tell, but ` . ` and `/src/app` are separated by a space)
 >
